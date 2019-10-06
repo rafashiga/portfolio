@@ -1,3 +1,4 @@
 # rafashiga.github.io
 
-Angular dist
+portfolio-app build
+https://github.com/rafashiga/portfolio-app
