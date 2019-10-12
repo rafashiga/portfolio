@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1570918416823,
+  "timestamp": 1570918903650,
   "index": "/portifolio/index.html",
   "assetGroups": [
     {
@@ -87,7 +87,7 @@
     "/portifolio/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/portifolio/hero-dark.bb9560f9e8e3e632f4b4.jpg": "89f117e5786d702d25b2c799923bb2fdef34e780",
     "/portifolio/hero-light.7947343039446b7f8d3f.jpg": "a1ce569df40b92402c7e5190c35b06190c11fa16",
-    "/portifolio/index.html": "fce17e0929acde8f67970b71d4ad7e95ceb4b1d5",
+    "/portifolio/index.html": "e49960bebaddeb11c960bd4b1161d5d9d81c4e66",
     "/portifolio/main-es2015.c83352cf1278593f4df9.js": "7ed209db0b76afb5ebf573ffab46d48e6ad327cc",
     "/portifolio/main-es5.c83352cf1278593f4df9.js": "a72c1db2a06eb5b038bd82ced697ab0965ef792c",
     "/portifolio/manifest.webmanifest": "102d0b1250c374811b9137c0d6f838e535313bc3",
